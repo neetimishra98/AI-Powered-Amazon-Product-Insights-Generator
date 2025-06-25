@@ -1,0 +1,23 @@
+Amazon Sales Insights
+==============================
+Top Categories:
+category
+Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables                        233
+Electronics|WearableTechnology|SmartWatches                                                               76
+Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones                                      68
+Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions                                             63
+Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear                                              52
+Electronics|HomeTheater,TV&Video|Accessories|RemoteControls                                               49
+Home&Kitchen|Kitchen&HomeAppliances|SmallKitchenAppliances|MixerGrinders                                  27
+Electronics|HomeTheater,TV&Video|Accessories|Cables|HDMICables                                            24
+Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|Irons|DryIrons     24
+Computers&Accessories|Accessories&Peripherals|Keyboards,Mice&InputDevices|Mice                            24
+
+Sentiment Analysis:
+sentiment_label
+Positive    1380
+Negative      74
+Neutral       11
+
+AI-Generated Insights:
+Analyze the following Amazon sales and review data and generate insights. Analyze the top categories: category                Computers&Accessories|Accessories&Peripherals; category                Cables&Accessory|Cables|USBCables; category    WearableTechnology|SmartWatches; category   Smartphones; category    SmartTelevisions. Analyzing the sales data will generate insights into the sales of Amazon products.
